@@ -46,8 +46,8 @@ plot1 <- function(){
      hist(usageData$Global_active_power, col = "red", xlab="Global Active Power (kilowatts)", main = "Global Active Power")
      dev.off()
      
-     data
+     #data
 }
 
 #execute the plot
-#plot1()
+plot1()
